@@ -15,6 +15,6 @@ class ScratchCocoaMod(loader.Module):
         ru_doc="- Вы почешите Кокоа ;)"
         # ...
     )
-    async def scrcoca(self, message: Message):
+    async def scrcocoa(self, message: Message):
         """- Вы почешите Кокоа ;)"""
         await utils.answer_file(message, file=url, caption=self.strings("caption"))
