@@ -8,7 +8,7 @@ url = "https://x0.at/OLui.mp4"
 @loader.tds
 class ScrKomMod(loader.Module):
     """Scratch Komaru
-    Developer: @y9RavenCat"""
+    Developer: @RavenModules"""
     strings = {"name": "Scratch Komaru", "caption": "ВЫ ПОЧЕСАЛИ КОМАРУ"}
     
     @loader.command(
