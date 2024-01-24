@@ -8,7 +8,7 @@ url = "https://x0.at/0T5N.mp4"
 @loader.tds
 class PlayWithKomugiMod(loader.Module):
     """Play with Komugi
-    Developer: @y9RavenCat"""
+    Developer: @RavenModules"""
     strings = {"name": "Play With Komugi", "caption": "ВЫ ПОИГРАЛИ С КОМУГИ"}
     
     @loader.command(
