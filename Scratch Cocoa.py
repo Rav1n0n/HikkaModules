@@ -8,7 +8,7 @@ url = "https://x0.at/urag.mp4"
 @loader.tds
 class ScratchCocoaMod(loader.Module):
     """Scratch Cocoa
-    Developer: @y9RavenCat"""
+    Developer: @RavenModules"""
     strings = {"name": "Scratch Cocoa", "caption": "ВЫ ПОЧЕСАЛИ КОКОА"}
     
     @loader.command(
